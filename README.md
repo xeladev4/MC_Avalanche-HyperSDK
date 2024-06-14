@@ -377,6 +377,8 @@ perform import on destination (y/n): y
 ✔ switch default chain to destination (y/n): y
 ```
 
+https://www.loom.com/share/bff29e8c0099466aa65fe78c4b0bdc21
+
 _The `export` command will automatically run the `import` command on the
 destination. If you wish to import the AWM message using a separate account,
 you can run the `import` command after changing your key._
